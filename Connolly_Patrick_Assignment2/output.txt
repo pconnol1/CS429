@@ -1,0 +1,149 @@
+
+>>> Build Index
+TF-IDF Index built in 0.55750966072082519531 seconds
+Generating document vectors
+Document vectors built in 7.73731327056884765625 seconds
+Generating document magnitudes
+Magnitudes calculated in 5.43546795845031738281 seconds
+Champions list built in 0.08975982666015625000 seconds
+Cluster Pruning index built in 0.4448106288909912 seconds
+Top 5 result(s) for the query ' with without yemen  ' using exact retrieval method are:
+1 . Text-10.txt with score 0.1496348167220522
+2 . Text-36.txt with score 0.13882000339340023
+3 . Text-195.txt with score 0.12981494090019402
+4 . Text-267.txt with score 0.12687256198525299
+5 . Text-234.txt with score 0.12291139005009917
+Results found in 0.00299143791198730469 seconds
+Top 5 result(s) for the query ' with without yemen  ' using champion list method are:
+1 . Text-10.txt with score 0.1496348167220522
+2 . Text-36.txt with score 0.13882000339340023
+3 . Text-195.txt with score 0.12981494090019402
+4 . Text-267.txt with score 0.12687256198525299
+5 . Text-234.txt with score 0.12291139005009917
+Results found in 0.00000000000000000000 seconds
+Top 5 result(s) for the query ' with without yemen  ' using index elimination method are:
+1 . Text-99.txt with score 0.10913616491645003
+2 . Text-86.txt with score 0.09457179385075165
+3 . Text-115.txt with score 0.08543204861482889
+4 . Text-117.txt with score 0.08497879399215107
+5 . Text-159.txt with score 0.0806803953324366
+Results found in 0.00099754333496093750 seconds
+Top 5 result(s) for the query ' with without yemen  ' using cluster pruning method are:
+1 . Text-1.txt with score 0.044695019947855436
+2 . Text-10.txt with score 0.044695019947855436
+3 . Text-100.txt with score 0.044695019947855436
+4 . Text-101.txt with score 0.044695019947855436
+5 . Text-102.txt with score 0.044695019947855436
+Results found in 0.00099730491638183594 seconds
+Top 5 result(s) for the query ' germany invasion of poland ' using exact retrieval method are:
+1 . Text-102.txt with score 0.23228574455269413
+2 . Text-317.txt with score 0.1480844300857517
+3 . Text-74.txt with score 0.14167967170210227
+4 . Text-266.txt with score 0.13486978584901255
+5 . Text-31.txt with score 0.12570958612692032
+Results found in 0.00299191474914550781 seconds
+Top 5 result(s) for the query ' germany invasion of poland ' using champion list method are:
+1 . Text-102.txt with score 0.23228574455269413
+2 . Text-317.txt with score 0.1480844300857517
+3 . Text-74.txt with score 0.14167967170210227
+4 . Text-266.txt with score 0.13486978584901255
+5 . Text-31.txt with score 0.12570958612692032
+Results found in 0.00099730491638183594 seconds
+Top 5 result(s) for the query ' germany invasion of poland ' using index elimination method are:
+1 . Text-102.txt with score 0.23228574455269413
+2 . Text-74.txt with score 0.14167967170210227
+3 . Text-266.txt with score 0.13486978584901255
+4 . Text-53.txt with score 0.11277193132521941
+5 . Text-290.txt with score 0.08709812251289858
+Results found in 0.00000000000000000000 seconds
+Top 5 result(s) for the query ' germany invasion of poland ' using cluster pruning method are:
+1 . Text-1.txt with score 0.04248379094957631
+2 . Text-10.txt with score 0.04248379094957631
+3 . Text-100.txt with score 0.04248379094957631
+4 . Text-101.txt with score 0.04248379094957631
+5 . Text-102.txt with score 0.04248379094957631
+Results found in 0.00099754333496093750 seconds
+Top 5 result(s) for the query ' allied forces axis powers ' using exact retrieval method are:
+1 . Text-85.txt with score 0.1367222081382624
+2 . Text-48.txt with score 0.11630770175588684
+3 . Text-135.txt with score 0.09753269127538122
+4 . Text-158.txt with score 0.09336417570561319
+5 . Text-1.txt with score 0.0798218566591334
+Results found in 0.00398874282836914062 seconds
+Top 5 result(s) for the query ' allied forces axis powers ' using champion list method are:
+1 . Text-85.txt with score 0.1367222081382624
+2 . Text-48.txt with score 0.11630770175588684
+3 . Text-135.txt with score 0.09753269127538122
+4 . Text-158.txt with score 0.09336417570561319
+5 . Text-1.txt with score 0.0798218566591334
+Results found in 0.00000000000000000000 seconds
+Top 5 result(s) for the query ' allied forces axis powers ' using index elimination method are:
+1 . Text-85.txt with score 0.1367222081382624
+2 . Text-48.txt with score 0.11630770175588684
+3 . Text-135.txt with score 0.09753269127538122
+4 . Text-158.txt with score 0.09336417570561319
+5 . Text-1.txt with score 0.0798218566591334
+Results found in 0.00099778175354003906 seconds
+Top 5 result(s) for the query ' allied forces axis powers ' using cluster pruning method are:
+1 . Text-1.txt with score 0.03513546493629258
+2 . Text-10.txt with score 0.03513546493629258
+3 . Text-100.txt with score 0.03513546493629258
+4 . Text-101.txt with score 0.03513546493629258
+5 . Text-102.txt with score 0.03513546493629258
+Results found in 0.00099754333496093750 seconds
+Top 5 result(s) for the query ' america enters the war against germany ' using exact retrieval method are:
+1 . Text-312.txt with score 0.09623457126994296
+2 . Text-116.txt with score 0.08609886376227267
+3 . Text-132.txt with score 0.08358580148296521
+4 . Text-54.txt with score 0.07542014703156982
+5 . Text-102.txt with score 0.0733728353787609
+Results found in 0.00997304916381835938 seconds
+Top 5 result(s) for the query ' america enters the war against germany ' using champion list method are:
+1 . Text-312.txt with score 0.09623457126994296
+2 . Text-116.txt with score 0.08609886376227267
+3 . Text-132.txt with score 0.08358580148296521
+4 . Text-54.txt with score 0.07542014703156982
+5 . Text-102.txt with score 0.0733728353787609
+Results found in 0.00199460983276367188 seconds
+Top 5 result(s) for the query ' america enters the war against germany ' using index elimination method are:
+1 . Text-312.txt with score 0.09623457126994296
+2 . Text-116.txt with score 0.08609886376227267
+3 . Text-132.txt with score 0.08358580148296521
+4 . Text-54.txt with score 0.07542014703156982
+5 . Text-295.txt with score 0.0706453529192269
+Results found in 0.00099754333496093750 seconds
+Top 5 result(s) for the query ' america enters the war against germany ' using cluster pruning method are:
+1 . Text-1.txt with score 0.04686794604619351
+2 . Text-10.txt with score 0.04686794604619351
+3 . Text-100.txt with score 0.04686794604619351
+4 . Text-101.txt with score 0.04686794604619351
+5 . Text-102.txt with score 0.04686794604619351
+Results found in 0.00099730491638183594 seconds
+Top 5 result(s) for the query ' what happened to germany after the world war ' using exact retrieval method are:
+1 . Text-102.txt with score 0.06941298709373436
+2 . Text-103.txt with score 0.06756724707503814
+3 . Text-224.txt with score 0.0660387881002358
+4 . Text-364.txt with score 0.06447802654671753
+5 . Text-289.txt with score 0.060600063851057935
+Results found in 0.01595711708068847656 seconds
+Top 5 result(s) for the query ' what happened to germany after the world war ' using champion list method are:
+1 . Text-102.txt with score 0.06941298709373436
+2 . Text-103.txt with score 0.06756724707503814
+3 . Text-224.txt with score 0.0660387881002358
+4 . Text-364.txt with score 0.06447802654671753
+5 . Text-289.txt with score 0.060600063851057935
+Results found in 0.00598382949829101562 seconds
+Top 5 result(s) for the query ' what happened to germany after the world war ' using index elimination method are:
+1 . Text-102.txt with score 0.06941298709373436
+2 . Text-103.txt with score 0.06756724707503814
+3 . Text-224.txt with score 0.0660387881002358
+4 . Text-364.txt with score 0.06447802654671753
+5 . Text-289.txt with score 0.060600063851057935
+Results found in 0.00398921966552734375 seconds
+Top 5 result(s) for the query ' what happened to germany after the world war ' using cluster pruning method are:
+1 . Text-1.txt with score 0.049855473422604865
+2 . Text-10.txt with score 0.049855473422604865
+3 . Text-100.txt with score 0.049855473422604865
+4 . Text-101.txt with score 0.049855473422604865
+5 . Text-102.txt with score 0.049855473422604865
+Results found in 0.00199460983276367188 seconds

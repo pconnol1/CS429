@@ -1,0 +1,87 @@
+
+>>> Build Index
+TF-IDF Index built in 1.07213473320007324219 seconds
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 1.082802     	 149
+1       	 2.060216     	 186
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 1.077822     	 22
+1       	 2.048031     	 392
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 1.034950     	 56
+1       	 2.020637     	 186
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.997843     	 22
+1       	 1.966703     	 392
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 1.034950     	 56
+1       	 2.020637     	 186
+
+Average RSS ( k = 2 ): 1.0116225841473434 
+Clustering Time: 15.97928476333618164062 seconds
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 1.072893     	 361
+1       	 2.025635     	 171
+2       	 2.971974     	 61
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.971634     	 179
+1       	 1.943301     	 363
+2       	 2.921228     	 195
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.961642     	 61
+1       	 1.914098     	 171
+2       	 2.914512     	 144
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.971403     	 313
+1       	 1.928220     	 363
+2       	 2.922228     	 199
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 1.009842     	 136
+1       	 1.978356     	 352
+2       	 2.951045     	 113
+
+Average RSS ( k = 3 ): 0.9787325044616905 
+Clustering Time: 28.40104937553405761719 seconds
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.826445     	 186
+1       	 1.921082     	 281
+2       	 2.826034     	 238
+3       	 3.635389     	 189
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.957925     	 15
+1       	 1.917730     	 197
+2       	 3.007085     	 35
+3       	 3.990931     	 284
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.961276     	 186
+1       	 1.920156     	 238
+2       	 2.881791     	 153
+3       	 3.887131     	 189
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.954439     	 422
+1       	 2.026792     	 126
+2       	 2.998145     	 12
+3       	 3.974985     	 361
+
+Cluster 	 RSS        	 Centroid Doc
+0       	 0.966702     	 30
+1       	 1.925232     	 182
+2       	 2.904096     	 238
+3       	 3.852851     	 189
+
+Average RSS ( k = 4 ): 0.9670643569278109 
+Clustering Time: 47.04922628402709960938 seconds
